@@ -15,11 +15,13 @@ Particle Sampling은 Adams기법으로 구현
 Particle과 Triangle Mesh사이 충돌은 Bridson논문을 참조하여 구현
 
 # Scene
-- scene1
+#### 1
 ![scene1](https://user-images.githubusercontent.com/86860544/228155248-4f6ae980-1914-4263-9a17-d04209512077.gif)
-- scene2
+
+#### 2
 ![scene2](https://user-images.githubusercontent.com/86860544/228155666-c4b4380c-2b3f-4ed7-9cd5-1558d6440373.gif)
-- scene3
+
+#### 3
 ![scene3](https://user-images.githubusercontent.com/86860544/228155694-97ee6c90-078e-4623-9478-5108884512ea.gif)
 
 
