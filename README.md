@@ -14,10 +14,12 @@ Particle Sampling은 Adams기법으로 구현
 
 Particle과 Triangle Mesh사이 충돌은 Bridson논문을 참조하여 구현
 
+# Scene1
+![scene1](https://user-images.githubusercontent.com/86860544/228155248-4f6ae980-1914-4263-9a17-d04209512077.gif)
 
 
 
-참고문헌
+# 참고문헌
  - Adams, Bart, Mark Pauly, Richard Keiser, and Leonidas J. Guibas. "Adaptively sampled particle fluids." In ACM SIGGRAPH 2007 papers, pp. 48-es. 2007.
  - Akinci, Nadir, Jens Cornelis, Gizem Akinci, and Matthias Teschner. "Coupling elastic solids with smoothed particle hydrodynamics fluids." Computer Animation and Virtual Worlds 24, no. 3-4 (2013): 195-203.
  - Akinci, Nadir, Markus Ihmsen, Gizem Akinci, Barbara Solenthaler, and Matthias Teschner. "Versatile rigid-fluid coupling for incompressible SPH." ACM Transactions on Graphics (TOG) 31, no. 4 (2012): 1-8.
